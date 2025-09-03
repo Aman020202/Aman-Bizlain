@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+# Update to your live URL
+Sitemap: https://USERNAME.github.io/REPO/sitemap.xml
